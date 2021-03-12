@@ -1,4 +1,4 @@
-<h1 align="center">**Currency Converter**</h1>
+<h1 align="center">Currency Converter</h1>
 <p align="center"> 
 	Austin Brown
 </p>
