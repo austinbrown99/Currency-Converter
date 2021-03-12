@@ -12,3 +12,5 @@
     <br>
 	https://github.com/Ritaja/java-exchange-rates
 <p>
+<img src="https://drive.google.com/file/d/1RbI-nLoa__3bOATMJJh2uAlfHFn85gVH/view?usp=sharing" align="center"
+     alt="Currency Converter Application">
