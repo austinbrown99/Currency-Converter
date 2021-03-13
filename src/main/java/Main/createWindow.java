@@ -19,8 +19,12 @@ import java.text.NumberFormat;
  * https://github.com/Ritaja/java-exchange-rates
  *
  * @author Austin Brown
- * @version 1.0
+ * @version 1.1
  * @since 3/12/2021
+ *
+ * Changelog:
+ * 1.0 - Initial release
+ * 1.1 - add clear button
  */
 
 public class createWindow {
@@ -105,6 +109,14 @@ public class createWindow {
         bodyPanel.add(close);
         close.setBounds(250, 200, 100, 35);
         close.addActionListener(e -> frame.dispose());
+
+        JButton clear = new JButton("Clear");
+        bodyPanel.add(clear);
+        clear.setBounds(350, 150, (int) clear.getPreferredSize().getWidth(), 25);
+        clear.addActionListener(e -> {
+            convertThisNumber.setText("");
+            result.setText("");
+        });
 
         frame.pack();
         frame.setVisible(true);
