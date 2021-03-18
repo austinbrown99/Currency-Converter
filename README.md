@@ -13,7 +13,7 @@
 	https://github.com/Ritaja/java-exchange-rates
 	<br>
 	<br>
-	<img  align="center" src="https://github.com/austinbrown99/Sorting-Algorithms/blob/master/sortingAlgorithmScreenshot.png.jpg"
+	<img  align="center" src="https://github.com/austinbrown99/Currency-Converter/blob/main/Screenshot%202021-03-12%20183500.jpg"
      	alt="Sorting Algorithm Application">
 <p>
 
